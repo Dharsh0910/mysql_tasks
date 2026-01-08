@@ -48,38 +48,38 @@ DDL, DML, constraints, and aggregate queries.
 - Find maximum salary department-wise
 
 ---
-###TASK 5: SUBQUERY
+TASK 5: SUBQUERY
 -Find employees earning more than average salary.
 -Find employees working in the ‘IT’ department using subquery.
 -Find department with highest average salary.
 ---
 
-###TASK 6: IN / AND / OR / NOT
+TASK 6: IN / AND / OR / NOT
 -Display employees working in dept_id IN (1, 2, 3).
 -Employees whose age > 25 AND salary > 40,000.
 -Employees not working in HR department.
 ---
 
- ###TASK 7: UNION
+ TASK 7: UNION
 -Display employee names who are:
  From IT department
  OR salary > 50,000
 -Use UNION ALL and observe difference.
 ---
 
-###TASK 8: UPDATE
+TASK 8: UPDATE
 -Increase salary by 10% for IT department employees.
 -Update status to ‘Inactive’ for employees older than 55.
 -Update salary using a subquery.
 ---
 
-###TASK 9: DELETE & TRUNCATE
+TASK 9: DELETE & TRUNCATE
 -Delete employees whose status is ‘Inactive’.
 -Delete employees who do not belong to any department.
 -Truncate a temporary table.
 ---
 
-###TASK 10: ALTER
+TASK 10: ALTER
 -Add column email to Employee table.
 -Modify salary datatype.
 -Drop age column.
